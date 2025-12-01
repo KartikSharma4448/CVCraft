@@ -13,7 +13,7 @@
 ## 📸 Screenshots
 | Dashboard | Editor Interface |
 |:---:|:---:|
-| ![Dashboard Shot](https://via.placeholder.com/600x300?text=Dashboard+UI) | ![Editor Shot](https://via.placeholder.com/600x300?text=Resume+Editor) |
+| ![Dashboard Shot](https://github.com/KartikSharma4448/CVCraft/tree/6a87c6324b6a5173161f11e2c6aeebf02857334c/frontend/public) | ![Editor Shot](https://via.placeholder.com/600x300?text=Resume+Editor) |
 
 ---
 
