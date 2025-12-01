@@ -11,9 +11,9 @@
 ---
 
 ## 📸 Screenshots
-| Dashboard | Editor Interface |
+| Dashboard | Logs Interface |
 |:---:|:---:|
-| ![Dashboard Shot](https://github.com/KartikSharma4448/CVCraft/blob/main/frontend/public/Screenshot%202025-12-01%20200944.png) | ![Editor Shot](https://github.com/KartikSharma4448/CVCraft/blob/main/frontend/public/Screenshot%202025-12-01%20201856.png) |
+| ![Dashboard Shot](https://github.com/KartikSharma4448/CVCraft/blob/main/frontend/public/Screenshot%202025-12-01%20200944.png) | ![Logs Shot](https://github.com/KartikSharma4448/CVCraft/blob/main/frontend/public/Screenshot%202025-12-01%20201856.png) |
 
 ---
 
