@@ -76,6 +76,10 @@ agenthub/agents/youtube/db
 # Build caches
 .cache/
 
+# Generated PDFs and test artifacts
+*.pdf
+test_result.md
+
 # Mobile development
 android-sdk/ frontend/node_modules/.cache/default-development/4.pack
 frontend/node_modules/.cache/default-development/4.pack
