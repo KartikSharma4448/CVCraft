@@ -209,6 +209,8 @@ CVCraft/
 
 | Home Page | CV Editor |
 |-----------|-----------|
+| ![Home Page](./frontend/public/Screenshot%202025-12-01%20200944.png) | ![CV Editor](./frontend/public/Screenshot%202026-06-01%20202145.png) |
+
 | Landing with features & CTA | Real-time editor with AI + ATS |
 
 ---
